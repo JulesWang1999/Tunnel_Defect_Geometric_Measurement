@@ -1,1 +1,27 @@
-# Tunnel_Defect_Geometric_Measurement
+# Tunnel Defect Segmentation Dataset
+
+This repository provides an **open-source dataset** for **semantic segmentation of tunnel lining defects**.  
+The dataset is designed to facilitate research in computer vision, civil engineering, and infrastructure maintenance.
+
+---
+
+## 📂 Dataset Overview
+- **Task**: Semantic segmentation of tunnel lining defects from images.  
+- **Content**: High-resolution tunnel lining images with manually annotated masks.  
+- **Defect Categories** (example, please modify as needed):
+  - Cracks  
+  - Water leakage  
+  - Spalling / peeling  
+  - Staining  
+  - Other surface defects  
+
+---
+
+## 🔗 Download
+The dataset can be downloaded from Google Drive:  
+👉 [Tunnel Defect Segmentation Dataset](https://drive.google.com/file/d/1fNKiAJwIZSsgZObbWnOpkE_LT9bUyX8f/view?usp=sharing)
+
+---
+
+## 📑 File Structure
+
