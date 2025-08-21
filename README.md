@@ -9,11 +9,13 @@ The dataset is designed to facilitate research in computer vision, civil enginee
 - **Task**: Semantic segmentation of tunnel lining defects from images.  
 - **Content**: High-resolution tunnel lining images with manually annotated masks.  
 - **Defect Categories** (example, please modify as needed):
-  - Cracks  
-  - Water leakage  
-  - Spalling / peeling  
-  - Staining  
-  - Other surface defects  
+  - Defects
+    - Cracks  
+    - Leakage
+    - Spalling
+  - Fixed Size refrences
+    - Bolt Holes
+    - Locating Holes
 
 ---
 
