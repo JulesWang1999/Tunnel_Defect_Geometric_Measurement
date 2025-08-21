@@ -21,7 +21,10 @@ The dataset is designed to facilitate research in computer vision, civil enginee
 
 ## 🔗 Download
 The dataset can be downloaded from Google Drive:  
-👉 [Tunnel Defect Segmentation Dataset](https://drive.google.com/file/d/1fNKiAJwIZSsgZObbWnOpkE_LT9bUyX8f/view?usp=sharing)
+👉 [Tunnel Defect Segmentation Dataset](https://drive.google.com/file/d/1igxWX30xu7uJFhWIuCd4_PtuJ1rRRGtM/view?usp=sharing)
+
+**Note**: The dataset is password protected.  
+To obtain the extraction password, please contact: **yfqiao@tongji.edu.cn**
 
 ---
 
