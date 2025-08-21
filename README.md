@@ -24,7 +24,7 @@ The dataset can be downloaded from Google Drive:
 👉 [Tunnel Defect Segmentation Dataset](https://drive.google.com/file/d/1igxWX30xu7uJFhWIuCd4_PtuJ1rRRGtM/view?usp=sharing)
 
 **Note**: The dataset is password protected.  
-To obtain the extraction password, please contact: **yfqiao@tongji.edu.cn**
+To obtain the extraction password, please contact: **yafei.qiao@tongji.edu.cn**
 
 ---
 
